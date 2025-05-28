@@ -4,5 +4,12 @@ Lucky Technology Ltd's attendance machine equipment has unauthorized access cont
 
 Vulnerable targets include but are not limited to software version 5.0.9433A of LM-520-SC.
 
+
+## CWE Identifiers:
+
+- CWE-306: Missing Authentication for Critical Function (primary)
+- CWE-200: Exposure of Sensitive Information to an Unauthorized Actor (secondary)
+
+
 ![poc1.png](poc1.png)
 ![poc4.png](poc4.png)
