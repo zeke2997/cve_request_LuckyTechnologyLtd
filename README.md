@@ -7,8 +7,8 @@ Vulnerable targets include but are not limited to software version 5.0.9433A of 
 
 ## CWE Identifiers:
 
-- CWE-306: Missing Authentication for Critical Function (primary)
-- CWE-200: Exposure of Sensitive Information to an Unauthorized Actor (secondary)
+- CWE-306: Missing Authentication for Critical Function
+- CWE-200: Exposure of Sensitive Information to an Unauthorized Actor
 
 
 ![poc1.png](poc1.png)
